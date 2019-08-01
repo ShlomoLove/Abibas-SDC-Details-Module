@@ -3,7 +3,6 @@ const { pgPool } = require('./index.js');
 module.exports = {
   dbFetch: product => {
     if (typeof product === 'number') {
-      console.log (product, 'product in models')
       return pgPool.query (
         `SELECT * FROM products WHERE "productId"=${product};`
       )
