@@ -15,7 +15,7 @@ The goal of the Abibas System Design Capstone is to scale legacy code and optimi
 - Docker
 - NginX
 - Redis
-- EC2
+- AWS/EC2
 - Amazon Load Balancer
 - Artillery
 - Jest
