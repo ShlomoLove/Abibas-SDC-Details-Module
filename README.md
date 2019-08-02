@@ -1,5 +1,6 @@
-# <img src="abibas.jpg" align="left" width="40" height="40"> 
+<img src="abibas.jpg" align="left" width="40" height="40"> 
 <br/>
+
 # Abibas System Design Capstone
 
 The goal of the Abibas System Design Capstone is to scale legacy code and optimize query times by restructuring the architecture of the server and database and comparing a relational with a non-relational database. The team of engineers compared the cost benefit analysis of horizontal and vertical scaling. 
