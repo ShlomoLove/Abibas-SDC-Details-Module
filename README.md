@@ -48,11 +48,9 @@ npm install
 npm run build
   ```
 3. There are two server options 
-```sh
+
 To Start Postgres Server
 - npm postgresStart 
-  ```
-  ```sh
+
 To Start Mongo Server
 - npm mongoStart
-  ``` 
